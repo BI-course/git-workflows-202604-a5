@@ -16,3 +16,17 @@ Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
 - [lab_instructions_part2.md](lab_instructions_part2.md)
+
+## Team Members and Roles
+
+| Name | Role | Task Description |
+| :--- | :--- | :--- |
+| **Rosa Nyakomitta** | Update README and manage project documentation. |
+
+| **George Karanja** | Researching business data sources (`data_source.md`). |
+
+| **Terrence Kariuki** | Researching Star Schema structures (`warehouse_schema.md`). |
+
+| **Bradley Lusalenge** | Differentiating ETL, ELT, and EtLT pipelines (`data_pipeline.md`). |
+
+| **Daniel Kasereka** | Reviewing data governance and access to PII (`governance.md`). |
