@@ -11,3 +11,9 @@ Access to PII is a critical component of data governance. It focuses on controll
 Strong data governance frameworks ensure that access to PII is not arbitrary but carefully regulated. This includes maintaining audit trails, monitoring data usage, and enforcing compliance with legal and regulatory requirements. By doing so, organizations reduce the risk of data breaches and unauthorized exposure.
 
 In conclusion, data governance and access to PII are closely interconnected. Data governance provides the structure and rules, while access control ensures those rules are enforced, particularly for sensitive personal data. Together, they play a crucial role in protecting individual privacy, maintaining data integrity, and supporting responsible data use within organizations.
+
+# research
+
+# info
+
+# 
