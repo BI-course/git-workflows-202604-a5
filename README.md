@@ -29,4 +29,4 @@ Refer to the files in the order specified below for more details:
 
 | **Bradley Lusalenge** | Differentiating ETL, ELT, and EtLT pipelines (`data_pipeline.md`). |
 
-| **Daniel Kasereka** | Reviewing data governance and access to PII (`governance.md`). |
+| **Daniel Kasereka** | Reviewing data governance and access to PII (`governance.md`). |Project lead: Member 5 — responsible for governance and audit.
