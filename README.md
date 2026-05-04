@@ -31,3 +31,13 @@ Refer to the files in the order specified below for more details:
 
 | **Daniel Kasereka** | Reviewing data governance and access to PII (`governance.md`). |Project lead: Member 4 (coordination) and Member 5 (governance and audit).
 
+
+THIS IS STEP 11 SCREENSHOTS
+![alt text](<assets/Screenshot 2026-05-04 110750.png>) 
+![alt text](<assets/Screenshot 2026-05-04 110737.png>) 
+![alt text](<assets/Screenshot 2026-05-04 105946.png>) 
+![alt text](<assets/Screenshot 2026-05-04 105656.png>) 
+![alt text](<assets/Screenshot 2026-05-04 105521.png>) 
+![alt text](<assets/Screenshot 2026-05-04 105451.png>) 
+![alt text](<assets/Screenshot 2026-05-04 104916.png>)
+
