@@ -33,11 +33,11 @@ Refer to the files in the order specified below for more details:
 
 
 THIS IS STEP 11 SCREENSHOTS
-![alt text](<assets/Screenshot 2026-05-04 110750.png>) 
-![alt text](<assets/Screenshot 2026-05-04 110737.png>) 
-![alt text](<assets/Screenshot 2026-05-04 105946.png>) 
-![alt text](<assets/Screenshot 2026-05-04 105656.png>) 
-![alt text](<assets/Screenshot 2026-05-04 105521.png>) 
-![alt text](<assets/Screenshot 2026-05-04 105451.png>) 
-![alt text](<assets/Screenshot 2026-05-04 104916.png>)
+![commit done on right branch](<assets/Screenshot 2026-05-04 110750.png>) 
+![adding cherry changes to readme.md](<assets/Screenshot 2026-05-04 110737.png>) 
+![remove the commit from the wrong branch](<assets/Screenshot 2026-05-04 105946.png>) 
+![cherry picking the commit from wrong branch to the right branch](<assets/Screenshot 2026-05-04 105656.png>) 
+![getting the commit id](<assets/Screenshot 2026-05-04 105521.png>) 
+![navigating to the right branch](<assets/Screenshot 2026-05-04 105451.png>) 
+![commit changes on the wrong branch](<assets/Screenshot 2026-05-04 104916.png>)
 
