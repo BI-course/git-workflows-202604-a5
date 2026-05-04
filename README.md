@@ -31,3 +31,13 @@ Refer to the files in the order specified below for more details:
 
 | **Daniel Kasereka** | Reviewing data governance and access to PII (`governance.md`). |Project lead: Member 4 (coordination) and Member 5 (governance and audit).
 
+
+THIS IS STEP 11 SCREENSHOTS
+![commit done on right branch](<assets/Screenshot 2026-05-04 110750.png>) 
+![adding cherry changes to readme.md](<assets/Screenshot 2026-05-04 110737.png>) 
+![remove the commit from the wrong branch](<assets/Screenshot 2026-05-04 105946.png>) 
+![cherry picking the commit from wrong branch to the right branch](<assets/Screenshot 2026-05-04 105656.png>) 
+![getting the commit id](<assets/Screenshot 2026-05-04 105521.png>) 
+![navigating to the right branch](<assets/Screenshot 2026-05-04 105451.png>) 
+![commit changes on the wrong branch](<assets/Screenshot 2026-05-04 104916.png>)
+
